@@ -1,0 +1,1 @@
+{"data": [{"track_id": 55, "trackable_object": 55, "is_visible": false, "x": -3.13, "y": -4.92, "z": -0.31}], "possession": {"group": null, "trackable_object": null}, "frame": 10, "image_corners_projection": [], "timestamp": "00:00:00.00", "period": 1}
